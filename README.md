@@ -2,4 +2,4 @@
 
 Hello my name is Robert Cole and this is my repository
 
-My course partner is 
+My course partner is Steve Flinchbaugh
